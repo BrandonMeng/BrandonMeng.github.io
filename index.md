@@ -22,7 +22,7 @@ attention to my eyes. I always wanted to see the thought process when creating
 such a game. With the utilization of if and bool statements, we were able to
 complete such task.
 
-*Lab 7
+* Lab 7
 
 Lab 7, part one was a great learning experience for me, where I gained valuable
 coding skills in handling date calculations. I enjoyed converting user-inputted
